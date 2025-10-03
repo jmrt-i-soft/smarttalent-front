@@ -1,0 +1,17 @@
+export const ASYNC_STORAGES = {
+    IsInternetConnected: 'isInternetConnected',
+    IsInternetReachable: 'isInternetReachable',
+    FCM_TOKEN: 'fcm_token',
+    UPDATED_EMAIL: 'updatedEmail',
+    EFRESH_TRIGGER_DATE: 'efresh-trigger-date',
+    LOAN_ID: 'loanID',
+    LANGUAGE: 'language',
+    APP_LOAN_ID: 'app_loan_id',
+    IS_FEEDBACK: 'isFeedback',
+    NOTIFICATION_DATA: "notificationData",
+    lastapi: "lastapi",
+    firstName:"firstName",
+    email:'email',
+    role:'role',
+    postedJob: 'postedJob',
+}
