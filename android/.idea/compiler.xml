@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="gradle-plugins-root" target="21" />
+      <module name="gradle-plugins-root.react-native-gradle-plugin" target="11" />
+      <module name="gradle-plugins-root.settings-plugin" target="11" />
+      <module name="gradle-plugins-root.shared" target="11" />
+      <module name="gradle-plugins-root.shared-testutil" target="11" />
+      <module name="smartTalent.react-native-firebase_storage" target="21" />
+      <module name="smartTalent.react-native-picker_picker" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

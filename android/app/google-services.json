@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "162801726700",
+    "project_id": "smart-talent-66df6",
+    "storage_bucket": "smart-talent-66df6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162801726700:android:f7ecd2c76de3cf716de1c9",
+        "android_client_info": {
+          "package_name": "com.smarttalent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162801726700-8ouem32mpb30nm369ils1leqp76sigsp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smarttalent",
+            "certificate_hash": "f7f46503ee89e4d9ae8539c60bc4f34c25663e35"
+          }
+        },
+        {
+          "client_id": "162801726700-iiu2m1j8gpbm3l9uhcnrdddqt4i8rrsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxah94PY7wcT89B1qbjNWpIblLqE6GH2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162801726700-iiu2m1j8gpbm3l9uhcnrdddqt4i8rrsp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "162801726700-k8lrgn4630cdnd3skaafgbbd8dpkhu0b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smarttalentjob"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

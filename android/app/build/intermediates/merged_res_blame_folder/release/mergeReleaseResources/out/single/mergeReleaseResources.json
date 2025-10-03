@@ -1,0 +1,306 @@
+[
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_src_assets_png_back.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/src_assets_png_back.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_assets_ic_arrow_left.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/assets_ic_arrow_left.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_assets_line_blue_left.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/assets_line_blue_left.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_assets_ic_menu.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/assets_ic_menu.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_assets_ic_recruit.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/assets_ic_recruit.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_assets_images_4.jpg.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/assets_images_4.jpg"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_src_assets_png_degree.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/src_assets_png_degree.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_assets_ic_profile_tab.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/assets_ic_profile_tab.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_src_assets_png_skill.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/src_assets_png_skill.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_light_icons_close.png.flat",
+        "source": "com.smarttalent.app-main-59:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_light_icons_close.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_dark_icons_arrowdown.png.flat",
+        "source": "com.smarttalent.app-main-59:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_dark_icons_arrowdown.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_assets_images_1.jpg.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/assets_images_1.jpg"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.smarttalent.app-main-59:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_src_assets_png_exprience.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/src_assets_png_exprience.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_assets_line_blue_right.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/assets_line_blue_right.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.smarttalent.app-main-59:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.smarttalent.app-main-59:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-xhdpi_node_modules_reactnativecheckbox_img_ic_check_box.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-xhdpi/node_modules_reactnativecheckbox_img_ic_check_box.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/xml_network_security_config.xml.flat",
+        "source": "com.smarttalent.app-main-59:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_assets_images_5.jpg.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/assets_images_5.jpg"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_src_assets_png_video.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/src_assets_png_video.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_assets_ic_bookmark.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/assets_ic_bookmark.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_assets_ic_facebook.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/assets_ic_facebook.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.smarttalent.app-main-59:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_src_assets_png_date.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/src_assets_png_date.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_assets_ic_profile.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/assets_ic_profile.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_assets_bg_blur.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/assets_bg_blur.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_light_icons_arrowup.png.flat",
+        "source": "com.smarttalent.app-main-59:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_light_icons_arrowup.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_node_modules_reactnativeelementdropdown_src_assets_down.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/node_modules_reactnativeelementdropdown_src_assets_down.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_assets_background_image.jpg.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/assets_background_image.jpg"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_assets_ic_apple.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/assets_ic_apple.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_assets_profileimage.jpeg.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/assets_profileimage.jpeg"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_assets_ic_apply.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/assets_ic_apply.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.smarttalent.app-main-59:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_src_assets_png_group.png.flat",
+        "source": "com.smarttalent.app-main-59:/drawable-mdpi/src_assets_png_group.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-xxhdpi_node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-xxhdpi/node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.smarttalent.app-main-59:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_dark_icons_tick.png.flat",
+        "source": "com.smarttalent.app-main-59:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_dark_icons_tick.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_assets_ic_statistics.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/assets_ic_statistics.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_assets_images_2.jpg.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/assets_images_2.jpg"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_node_modules_reactnativecheckbox_img_ic_indeterminate_check_box.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/node_modules_reactnativecheckbox_img_ic_indeterminate_check_box.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.smarttalent.app-main-59:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_src_assets_png_search.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/src_assets_png_search.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_assets_images_6.jpg.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/assets_images_6.jpg"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_assets_ic_chat.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/assets_ic_chat.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.smarttalent.app-main-59:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_assets_ic_wave.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/assets_ic_wave.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_src_assets_png_availabity.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/src_assets_png_availabity.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_light_icons_tick.png.flat",
+        "source": "com.smarttalent.app-main-59:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_light_icons_tick.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_node_modules_reactnativecheckbox_img_ic_check_box.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/node_modules_reactnativecheckbox_img_ic_check_box.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-xxhdpi_node_modules_reactnativecheckbox_img_ic_check_box.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-xxhdpi/node_modules_reactnativecheckbox_img_ic_check_box.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_src_assets_png_thumb.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/src_assets_png_thumb.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_assets_bg_availability.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/assets_bg_availability.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_assets_ic_home.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/assets_ic_home.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_assets_images_3.jpg.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/assets_images_3.jpg"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_dark_icons_close.png.flat",
+        "source": "com.smarttalent.app-main-59:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_dark_icons_close.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-xhdpi_node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-xhdpi/node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_assets_logo.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/assets_logo.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.smarttalent.app-main-59:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_dark_icons_arrowup.png.flat",
+        "source": "com.smarttalent.app-main-59:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_dark_icons_arrowup.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_assets_ic_close.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/assets_ic_close.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_assets_ic_google.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/assets_ic_google.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_assets_ic_share.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/assets_ic_share.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.smarttalent.app-main-59:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-xhdpi_assets_bg_availability.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-xhdpi/assets_bg_availability.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_node_modules_reactnative_libraries_newappscreen_components_logo.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/node_modules_reactnative_libraries_newappscreen_components_logo.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_node_modules_reactnativeelementdropdown_src_assets_close.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-mdpi/node_modules_reactnativeelementdropdown_src_assets_close.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.smarttalent.app-main-59:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.smarttalent.app-res-52:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.smarttalent.app-release-58:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_light_icons_arrowdown.png.flat",
+        "source": "com.smarttalent.app-main-59:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_light_icons_arrowdown.png"
+    }
+]

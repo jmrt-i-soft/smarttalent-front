@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-540792224/smartTalent.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-540792224/smartTalent.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-331614455/smartTalent.react-native-firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-331614455/smartTalent.react-native-firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2115823766/smartTalent.react-native-firebase_firestore.iml" filepath="$PROJECT_DIR$/.idea/modules/-2115823766/smartTalent.react-native-firebase_firestore.iml" />
+    </modules>
+  </component>
+</project>
