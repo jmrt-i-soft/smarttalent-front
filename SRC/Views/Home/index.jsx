@@ -23,6 +23,7 @@ import { navigateParams } from '../../Common/navigate';
 import { useIsFocused } from '@react-navigation/native';
 import LANGUAGE_DATA from '../../Constants/language';
 import LinearGradient from 'react-native-linear-gradient';
+import GradientBackground from '../../Common/component/GradientBackground';
 const { width, height } = Dimensions.get("window");
 
 const ICON_SIZE = 24;
@@ -460,7 +461,7 @@ var jobPosted = await getdata(ASYNC_STORAGES.postedJob);
   
 
   return (
-     <>
+     <GradientBackground>
      <Loader visible={loading} />
     <GestureHandlerRootView style={styles.container}>
       
@@ -607,7 +608,7 @@ var jobPosted = await getdata(ASYNC_STORAGES.postedJob);
 
 
     </GestureHandlerRootView>
-    </>
+    </GradientBackground>
   );
 };
 
